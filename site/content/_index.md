@@ -1,7 +1,7 @@
 ---
 title: "Rumah Sakit Harapan Sehat"
 subtitle: Bersama Mencapai Sukses
-image: /img/IMG_20180919_141422.jpg"
+image: /img/rumah-sakit-hs.jpg"
 blurb:
     heading: Jadwal Tes Interview
     text: "Interview bagi para pelamar kerja yang lulus tes tertulis akan dilakukan pada hari Sabtu dan Minggu, 20 dan 21 Oktober 2018 di Rumah Sakit Harapan Sehat Jatibarang."
