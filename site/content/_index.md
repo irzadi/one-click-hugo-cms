@@ -1,5 +1,5 @@
 ---
-title: "Rumah Sakit Harapan Sehat"
+title: ""
 subtitle: Bersama Mencapai Sukses
 image: /img/rumah-sakit-hs.jpg
 blurb:
