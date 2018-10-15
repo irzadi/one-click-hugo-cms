@@ -1,6 +1,6 @@
 ---
 title: ""
-subtitle: Bersama Mencapai Sukses
+subtitle: 
 image: /img/rumah-sakit-hs.jpg
 blurb:
     heading: Jadwal Tes Interview
